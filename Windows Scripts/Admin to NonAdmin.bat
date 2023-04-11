@@ -2,8 +2,8 @@
 ::::::::::::::::::
 
 
-:: Script to change an admin user to a non-admin user
-
+:::Script to change an admin user to a non-admin user:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Rem Step 1: Add the user to the Users group. 
 
 NET LOCALGROUP Users Username /ADD 

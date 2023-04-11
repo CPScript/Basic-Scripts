@@ -1,0 +1,5 @@
+::: Batch File :::
+::::::::::::::::::
+
+:: Batch script to remove app
+msiexec /x "path_to_msi “ /qn 
